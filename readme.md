@@ -100,4 +100,4 @@ This assignment focuses on solving a conditional image generation task using dee
 
 
 ~ Vanam Shiva Kumar 
-~ Email id: shivakumarvanam27@gmail.com
+~ Email id: Shivakumarvanam27@gmail.com
